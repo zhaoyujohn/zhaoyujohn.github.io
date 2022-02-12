@@ -3,11 +3,11 @@
 		irRemote = "2",
 		fullStar = "1",
 	    data = {
-	        rise: "一起看日出",
-	        down: "一起看日落",
-		    yours: "有一天，你出现了",
-		    together: "然后",
-		    rose: "IOU"
+	        rise: "测试2",
+	        down: "测试3",
+		    yours: "测试4",
+		    together: "测试5",
+		    rose: "测试6"
 	    };
 
 	function render(element) {
